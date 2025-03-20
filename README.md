@@ -2,7 +2,7 @@
 Python Scripts used for LetA DMS
 
 Requirements:
-Python 3+, with the required libraries 
+Python 3+, with the required libraries argparse, pandas, and numpy.
 
 Installation:
 All that is needed is an installation of python (https://www.python.org/downloads/) with the required libraries. 
