@@ -9,7 +9,7 @@ All that is needed is an installation of python (https://www.python.org/download
 
 Instructions on  running the scripts:
 
-Input should be a multifasta file that represents each variant from a DMS experiment. To run, set up a bash script to run both scripts sequentially. They are written to work with the LetA DMS experiment. As such, modification would be required for other datasets. 
+Input should be a multifasta file that contains read variants from a DMS experiment. You will need two conditions, a control condition (no selection) and an experimental condition (with selections). To run, set up a bash script to run both scripts sequentially. They are written to work with the LetA DMS experiment. As such, modification would be required for other datasets. 
 
 Example Bash Script:
 ```
